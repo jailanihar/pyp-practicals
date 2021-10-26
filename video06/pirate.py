@@ -1,0 +1,2 @@
+class pirate:
+    pass
